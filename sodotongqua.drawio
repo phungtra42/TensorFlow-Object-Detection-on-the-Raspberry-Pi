@@ -1,25 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T19:11:26.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="C_8wphqeXe83XZfgeb0R" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T14:24:54.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="6avshomvTxUEwZqGSoaM" version="24.6.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="464" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1182" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nUsusqnOjuPOJIXIu_hI-1" value="Đầu vào&lt;div&gt;Camera&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nUsusqnOjuPOJIXIu_hI-1" value="Đầu vào&lt;div&gt;Camera&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nUsusqnOjuPOJIXIu_hI-3" value="Hệ thống xử lý&amp;nbsp;&lt;div&gt;Raspberry Pi 4&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nUsusqnOjuPOJIXIu_hI-3" value="Hệ thống xử lý&amp;nbsp;&lt;div&gt;Raspberry Pi 4&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nUsusqnOjuPOJIXIu_hI-4" value="&amp;nbsp; Đầu ra&lt;div&gt;Đèn&lt;div&gt;Màn hình LCD&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nUsusqnOjuPOJIXIu_hI-4" value="&amp;nbsp; Đầu ra&lt;div&gt;Đèn&lt;div&gt;Màn hình LCD&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="210" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="nUsusqnOjuPOJIXIu_hI-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nUsusqnOjuPOJIXIu_hI-3" target="nUsusqnOjuPOJIXIu_hI-4">
+        <mxCell id="nUsusqnOjuPOJIXIu_hI-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nUsusqnOjuPOJIXIu_hI-3" target="nUsusqnOjuPOJIXIu_hI-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="290" as="sourcePoint" />
             <mxPoint x="540" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nUsusqnOjuPOJIXIu_hI-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="nUsusqnOjuPOJIXIu_hI-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="259.5" as="sourcePoint" />
             <mxPoint x="320" y="260" as="targetPoint" />
